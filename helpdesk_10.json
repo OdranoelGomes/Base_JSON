@@ -1,0 +1,129 @@
+[
+    
+    {
+        "atribuido":"rodolfo@detalherj.com.br",
+        "categorias":"Servidor",
+        "chamado_cliente":"NERDAN MINIMERCADO E DEPÓSITO DE DOCES EIRELI",
+        "numero_chamado":"1",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 9, 2021 10:21 am",
+        "Creation Date":"Oct 5, 2021 9:59 am",
+        "Creator":"marisa@detalherj.com.br"
+    },
+    
+    {
+        "atribuido":"jansen@detalherj.com.br",
+        "categorias":"Caixa / PDV",
+        "chamado_cliente":"SUPERMERCADO NEWS PREMIUN COMERCIO LTDA",
+        "numero_chamado":"2",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 6, 2021 3:39 pm",
+        "Creation Date":"Oct 5, 2021 10:01 am",
+        "Creator":"marisa@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"jansen@detalherj.com.br",
+        "categorias":"Suporte Câmeras - CFTV",
+        "chamado_cliente":"SUPERMERCADO PREMIUN DE COELHO NETO LTDA",
+        "numero_chamado":"3",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 7, 2021 2:47 pm",
+        "Creation Date":"Oct 5, 2021 10:02 am",
+        "Creator":"jansen@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"rodolfo@detalherj.com.br",
+        "categorias":"Servidor",
+        "chamado_cliente":"CELEIRO 257 COMÉRCIO DE ALIMENTOS LTDA ",
+        "numero_chamado":"4",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 5, 2021 11:41 am",
+        "Creation Date":"Oct 5, 2021 10:08 am",
+        "Creator":"marisa@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"jansen@detalherj.com.br",
+        "categorias":"Suporte Câmeras - CFTV",
+        "chamado_cliente":"PREMIUN BELFORD ROXO SUPERMERCADO LTDA",
+        "numero_chamado":"5",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 7, 2021 2:40 pm",
+        "Creation Date":"Oct 5, 2021 10:10 am",
+        "Creator":"jansen@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"jansen@detalherj.com.br",
+        "categorias":"Maquina Auxiliar",
+        "chamado_cliente":"SUPERMERCADO NEWS PREMIUN COMERCIO LTDA",
+        "numero_chamado":"6",
+        "prioridade_options":"Baixo",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 14, 2021 12:16 pm",
+        "Creation Date":"Oct 5, 2021 10:11 am",
+        "Creator":"rodolfo@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"leonardo@detalherj.com.br",
+        "categorias":"Suporte Câmeras - CFTV",
+        "chamado_cliente":"MERCADO FAMILLE LTDA",
+        "numero_chamado":"7",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 11, 2021 5:49 pm",
+        "Creation Date":"Oct 5, 2021 10:18 am",
+        "Creator":"jansen@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"leonardo@detalherj.com.br",
+        "categorias":"Mobox",
+        "chamado_cliente":"VIA VENETO PIZZARIA E RESTAURANTE LTDA ",
+        "numero_chamado":"8",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 5, 2021 4:42 pm",
+        "Creation Date":"Oct 5, 2021 10:20 am",
+        "Creator":"bispo@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"rodolfo@detalherj.com.br",
+        "categorias":"Apuração de XML",
+        "chamado_cliente":"BAZAR LAGOA LTDA ",
+        "numero_chamado":"9",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Oct 6, 2021 5:22 pm",
+        "Creation Date":"Oct 5, 2021 10:20 am",
+        "Creator":"rodolfo@detalherj.com.br"
+        
+        },
+        
+        {
+        "atribuido":"rodolfo@detalherj.com.br",
+        "categorias":"Caixa / PDV",
+        "chamado_cliente":"A & C  MODAS CAMA MESA BANHO EIRELI",
+        "numero_chamado":"10",
+        "prioridade_options":"Médio",
+        "status":"Fechado",
+        "ticket_ultima_resposta":"Dec 14, 2021 10:26 am",
+        "Creation Date":"Oct 5, 2021 10:25 am",
+        "Creator":"rodolfo@detalherj.com.br"}
+]
